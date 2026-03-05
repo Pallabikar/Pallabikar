@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to my universe, I’m Pallabi 🚀</h1>
 
 <p align="center">
-Engineering intelligent systems at the intersection of <b>Full Stack</b> & <b>AI</b>
+Building scalable Full Stack systems powered by AI 🚀
+Turning ideas into intelligent digital products.
 </p>
 
 ---
